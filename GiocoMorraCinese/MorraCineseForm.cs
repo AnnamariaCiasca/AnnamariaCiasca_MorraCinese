@@ -178,6 +178,8 @@ namespace GiocoMorraCinese
                 txtUscitaPC.Clear();
                 txtPunteggioGioc.Clear();
                 txtPunteggioPC.Clear();
+                punteggioPC = 0;
+                punteggioGioc = 0;
             }
             else if (punteggioPC == 3)
             {
@@ -187,6 +189,8 @@ namespace GiocoMorraCinese
                 txtUscitaPC.Clear();
                 txtPunteggioGioc.Clear();
                 txtPunteggioPC.Clear();
+                punteggioPC = 0;
+                punteggioGioc = 0;
             }
         }
 
