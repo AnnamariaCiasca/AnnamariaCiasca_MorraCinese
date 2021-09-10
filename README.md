@@ -16,6 +16,6 @@ Fatto ciò, dopo una breve attesa, verrà mostrata la "scelta" effettuata dal PC
 
 
 
-Se il giocatore raggiunge punteggio pari a 3, apparirà una finestra che segnalerà la vittoria - o la sconfitta, nel caso raggiunga 3 punti per primo il Computer
+Se il giocatore raggiunge punteggio pari a 3, apparirà una finestra che segnalerà la vittoria - o la sconfitta, nel caso raggiunga 3 punti prima il Computer
 
 ![alt text](https://i.ibb.co/2yTXYPn/Screenshot-10.png)
