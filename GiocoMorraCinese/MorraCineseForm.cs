@@ -60,6 +60,8 @@ namespace GiocoMorraCinese
             txtEsito.Clear();
             txtUscitaGiocatore.Clear();
             txtUscitaPC.Clear();
+            imgUscitaPC.BackgroundImage = Properties.Resources.interrogativo1;
+            imgUscitaGioc.BackgroundImage = Properties.Resources.interrogativo1;
         }
 
         private void SceltaComputer(int sceltaPC)
